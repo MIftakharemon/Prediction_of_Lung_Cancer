@@ -3,5 +3,5 @@ Trained on 15,000 augmented images, achieving 94% accuracy in classification of 
 Implemented transfer learning to enhance feature extraction and model efficiency.
 Built a web-based system (Flask) for real-time automated lung cancer prediction.
 Applied Python (TensorFlow/Keras) for model development and performance optimisation.
-Focused on medical AI applications, ensuring high generalisation and clinical relevance.
+Focused on medical AI applications, ensuring high generalisation and clinical relevance. 
 
