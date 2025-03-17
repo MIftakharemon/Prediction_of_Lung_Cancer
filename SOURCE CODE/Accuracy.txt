@@ -1,0 +1,12 @@
+Prediction of Lung Cancer using Convolution Neural Networks.
+
+Algorithm / Model Used: InceptionV3 Architecture.
+
+Training Accuracy:94.00%. 
+Validation Accuracy:93.00%.
+
+
+
+
+
+
